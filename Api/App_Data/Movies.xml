@@ -1,0 +1,13 @@
+﻿<Movies>
+  <Movie>
+    <Id>1</Id>
+    <Title>Star Wars: Episode IV - A New Hope</Title>
+    <CastAndCrew>
+      <Ref Type="Person" Role="Actor" Id="1"/>
+      <Ref Type="Person" Role="Actor" Id="2"/>
+      <Ref Type="Person" Role="Actor" Id="3"/>
+      <Ref Type="Person" Role="Writer" Id="4"/>
+      <Ref Type="Person" Role="Director" Id="4"/>
+    </CastAndCrew>
+  </Movie>
+</Movies>

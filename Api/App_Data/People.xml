@@ -1,0 +1,22 @@
+﻿<People>
+  <Person>
+    <Id>1</Id>
+    <FirsName>Harrison</FirsName>
+    <LastName>Ford</LastName>
+  </Person>
+  <Person>
+    <Id>1</Id>
+    <FirsName>Mark</FirsName>
+    <LastName>Hammil</LastName>
+  </Person>
+  <Person>
+    <Id>1</Id>
+    <FirsName>Carrie</FirsName>
+    <LastName>Fisher</LastName>
+  </Person>
+  <Person>
+    <Id>1</Id>
+    <FirsName>George</FirsName>
+    <LastName>Lucas</LastName>
+  </Person>
+</People>
